@@ -5,4 +5,3 @@ version = "2.2.0"
 
 [dependencies]
 strum_macros = "*"
-syn = "=1.0.104"
